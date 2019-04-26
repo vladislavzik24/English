@@ -1,0 +1,300 @@
+Gearbox – зубчатая передача, коробка передач
+Fault – дефект, неисправность
+Identification – идентификация
+Classification – классификация
+Convolution – свёртка
+Neuron – нейрон
+Network – сеть
+Vibration – вибрация
+Signal – сигнал
+Sensitive – чувствительный
+Existence – существование
+Base – основа
+Paper – статья
+Present – представлять
+Implementation – реализация
+Deep – глубокий
+Learning – обучение
+Algorithm – алгоритм
+Combination – комбинация
+Condition – состояние 
+Pattern – шаблон
+Consider – считать, рассматривать
+Test – испытание, проверка
+Case – случай, обстоятельство, пример
+Include – включать, подключать
+Preprocess – предварительно обрабатывать
+Statistical – статистический
+Measure – мера
+Time – время
+Domain – область, зона
+Deviation – девиация
+Skewness – симметрия 
+Kurtosis – эксцесс 
+Frequency – частота
+Spectrum – спектр 
+Obtaine – получать
+FFT (Fast fourier transform) – БПФ (Быстрое преобразование Фурье) 
+Divide – разделять 
+Multiple – множественный
+Band – полоса
+Square - квадратный 
+Root - корень
+Mean – среднее значение
+Value – значение
+Calculate – вычислять
+Energy – энергия
+Maintain – поддерживать
+Shape – форма
+Peak – пик
+Achieve – достигать
+Accuracy – точность
+Indicate – показывать, указывать
+Propose – предлагать
+Approach – подход
+Reliable – надеждный
+Applicable – применимый
+Diagnosis – диагностика
+Industry – промышленность
+Machinery – машинное оборудование
+Compare – сравнивать
+Peer – вглядываться
+Exhibit – показывать, выставлять
+Performance – эффективность
+Crucial – ключевой
+Role – роль
+Mechanical – механический
+Transmission – коробка передач
+System – система
+Power – мощность
+Shaft – вал
+Production – производство
+Failure – отказ
+Introduce – вносить, вводить
+Downtime – время простоя
+Detect – обнаруживать
+Stage – стадия
+Effective – эффективный
+Maintenance – поддержание
+Gain – усиление
+Attention – внимание
+Operation – операция
+Methodology – методология
+Signature – подпись
+Analysis – анализ
+Noise – шум
+Monitoring – мониторинг, контроль
+Oil – масло
+Reflect – отражать
+Rotary - Вращательный
+Application – приложение
+Decomposition – разложение
+Helix – спираль
+Investigate – исследовать
+Planetary – планетарный
+SVM (support vector machines) – Метод опорных векторов
+Artificial – искусственный 
+Wavelet – вейвлет
+Immune genetic - иммунно-генетический
+Develop – развивать 
+Determine – определять
+Generalization – обобщение
+Ability – способность
+Turbine – турбина
+Empirical – эмпирический
+Bearing – подшипник
+Receive – получать
+Feature – признак
+Dataset – набор данных
+Modality – Модальность
+Feed-forward  - прямая связь
+Respond – реагировать
+Overlapping – перекрытие
+Field – пространство
+Variation – изменение
+Recognition – распознавание
+Generate – генерировать
+Temporal – временной 
+Representation – представление
+Observation – наблюдение
+Load – нагрузка
+Computational – вычислительный
+Connectivity – связь
+Hierarchi – иерархия
+Transformation – преобразование, превращение
+Error – ошибка
+Gradient – градиент, уклон
+Task – задача
+Modern – современный
+Physiology – физиология
+Benchmark – эталонный тест
+Layer – слой
+Subsampling – субдискретизация
+Topographic – топографический
+Location – местоположение
+Weight – вес
+Rectangular – прямоугольный
+Propagation – распространение 
+Map – карта
+Kernel – ядро
+Activation function – функция активации
+Selection – выбор
+Additive bias – аддитивное смещение
+Discriminate – различать
+Evaluation – оценка
+Diversified - многоотраслевой
+Sample – выборка
+Trademark – производитель
+Complex – сложный 
+Sort – сортировать
+Cause – причина
+Malfunction – нарушение работы
+Chain – цепь, последовательность
+Scale – масштаб
+Experiment – эксперимент
+Tooth – зуб
+Intelligent – интеллектуальная
+Digital – цифровой
+Processing – обработка
+Method – метод
+Technology – технология
+Traditional – Традиционный
+Abstract – аннотация
+Accord – соглашение
+Acquisition – получение, приобретение
+Batch – партия, пакет, серия
+Conclusion – заключение
+Construction – строительство
+Details – подробности
+Enhance – усиливать
+Equation – уравнение
+Figure – рисунок
+Follow – следить
+Framework – рабочая область
+Inspire – вдохновлять
+Introduction – введение
+Normalization – нормализация
+Optimize – оптимизировать
+Output – выход
+Periodic – периодический
+Place – место
+Pooling – объединение
+Proper – правильный
+Propose – предложения
+Random – случайный
+Schematic – схема
+Section – раздел
+Simulation -  моделирование, симуляция
+Table – таблица
+Time-frequency – частотно-временной
+Training – обучение
+Typical – типичный, стандартный, обычный
+Unsupervised – без учителя
+Accurate – точный
+Activation – активация
+Actual – фактический, действительный, актуальный
+Addition – добавление
+Adjust – регулировать
+Advantage – преимущество
+Aliasing – наложение спектров
+Amplitude – амплитуда
+Architecture – архитектура
+Area – площадь
+Auxiliary – вспомогательный
+Axis – ось 
+Background – фон
+Behavior – поведение
+Binary – двоичный
+Capacity – ёмкость
+Challenge – проблема, вызов
+Chart – диаграмма
+Cluster – кластер
+Constant – постоянная
+Modulation – модуляция
+Convention – соглашение, конвенция
+Correspond – соответствовать
+Crack – трещина
+Current – ток
+Curve – кривая
+Decay – распад
+Define – определять
+Degree – степень
+Depend – зависить
+Describe – описывать
+Detect – обнаруживать
+Deteriorate – ухудшать
+Dimension – измерение
+Discrete – дискретный
+Distribute – распространять
+Diversified – многоотраслевой 
+Emission – излучение
+Enable – включить
+Entropy – энтропия
+Epoch – эпоха
+Error – ошибка
+Waveforms – осциллограмма
+Verify – проверить
+Validate – утверждать
+Utilize – использовать
+Ultrasonic – ультразвуковой
+Acoustic – аккустический
+Trend – тенденция
+Traffic – движение
+Summarize – резюмировать
+Stochastic – стохастический
+Sketch – эскиз
+Separate – отдельный
+Sensor – датчик
+Robustness – прочность
+Research – исследование
+Ratio – коээфициент
+Projects – проект
+Predict – прогнозировать
+Powerful – мощный
+Point – точна
+Grid – cетка
+Matrix – матрица
+Offers – предложения
+Observe - наблюдать
+Minimize – минимизировать
+Meshing – сцепление
+Iteration – итерация, повтор
+Input – вход
+Image – образ
+Adaptation – адаптация
+Report – отчёт
+Data – данные 
+Telemetry – телеметрия
+Health – здоровье
+Contents – содержание
+Electric – электрический
+Kinematic – кинематический
+Management – управление
+Memory – объём памяти
+Physical – физический
+Disaster – катастрофа
+Environment – среда
+Formalization – формализация
+Fuzzy – нечёткий
+Preventive – профилактический
+Confusion – ошибка
+Ring – кольца
+Device – устройство
+Embed – встраивать
+Gain – усиливать
+Downsample – подвыборка
+Tool – инструмент
+Size – размер
+Durations – продолжительность
+Accelerometer – Датчик виброускорения
+ReLU (Rectified linear unit) - усеченное линейное преобразование 
+Softmax function — функция мягкого максимума, софтмакс 
+Deep belief networks — глубокая сеть доверия 
+Harmonic - гармоника
+Sidebands  - боковые полосы
+Mesh - зацепление
+Approximate - приближенный
+Invariance – инвариантность
+Multi-resolution analysis (MRA) — кратномасштабный анализ
+Connection - соединение
+Requirement - требование

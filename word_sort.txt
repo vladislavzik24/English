@@ -1,0 +1,299 @@
+1. Ability – способность
+2. Abstract – аннотация
+3. Accelerometer – Датчик виброускорения
+4. Accord – соглашение
+5. Accuracy – точность
+6. Accurate – точный
+7. Achieve – достигать
+8. Acoustic – аккустический
+9. Acquisition – получение, приобретение
+10. Activation function – функция активации
+11. Activation – активация
+12. Actual – фактический, действительный, актуальный
+13. Adaptation – адаптация
+14. Addition – добавление
+15. Additive bias – аддитивное смещение
+16. Adjust – регулировать
+17. Advantage – преимущество
+18. Algorithm – алгоритм
+19. Aliasing – наложение спектров
+20. Amplitude – амплитуда
+21. Analysis – анализ
+22. Applicable – применимый
+23. Application – приложение
+24. Approach – подход
+25. Approximate - приближенный
+26. Architecture – архитектура
+27. Area – площадь
+28. Artificial – искусственный 
+29. Attention – внимание
+30. Auxiliary – вспомогательный
+31. Axis – ось 
+32. Background – фон
+33. Band – полоса
+34. Base – основа
+35. Batch – партия, пакет, серия
+36. Bearing – подшипник
+37. Behavior – поведение
+38. Benchmark – эталонный тест
+39. Binary – двоичный
+40. Calculate – вычислять
+41. Capacity – ёмкость
+42. Case – случай, обстоятельство, пример
+43. Cause – причина
+44. Chain – цепь, последовательность
+45. Challenge – проблема, вызов
+46. Chart – диаграмма
+47. Classification – классификация
+48. Cluster – кластер
+49. Combination – комбинация
+50. Compare – сравнивать
+51. Complex – сложный 
+52. Computational – вычислительный
+53. Conclusion – заключение
+54. Condition – состояние 
+55. Confusion – ошибка
+56. Connection - соединение
+57. Connectivity – связь
+58. Consider – считать, рассматривать
+59. Constant – постоянная
+60. Construction – строительство
+61. Contents – содержание
+62. Convention – соглашение, конвенция
+63. Convolution – свёртка
+64. Correspond – соответствовать
+65. Crack – трещина
+66. Crucial – ключевой
+67. Current – ток
+68. Curve – кривая
+69. Data – данные 
+70. Dataset – набор данных
+71. Decay – распад
+72. Decomposition – разложение
+73. Deep belief networks — глубокая сеть доверия 
+74. Deep – глубокий
+75. Define – определять
+76. Degree – степень
+77. Depend – зависить
+78. Describe – описывать
+79. Details – подробности
+80. Detect – обнаруживать
+81. Detect – обнаруживать
+82. Deteriorate – ухудшать
+83. Determine – определять
+84. Develop – развивать 
+85. Deviation – девиация
+86. Device – устройство
+87. Diagnosis – диагностика
+88. Digital – цифровой
+89. Dimension – измерение
+90. Disaster – катастрофа
+91. Discrete – дискретный
+92. Discriminate – различать
+93. Distribute – распространять
+94. Diversified - многоотраслевой
+95. Diversified – многоотраслевой 
+96. Divide – разделять 
+97. Domain – область, зона
+98. Downsample – подвыборка
+99. Downtime – время простоя
+100. Durations – продолжительность
+101. Effective – эффективный
+102. Electric – электрический
+103. Embed – встраивать
+104. Emission – излучение
+105. Empirical – эмпирический
+106. Enable – включить
+107. Energy – энергия
+108. Enhance – усиливать
+109. Entropy – энтропия
+110. Environment – среда
+111. Epoch – эпоха
+112. Equation – уравнение
+113. Error – ошибка
+114. Error – ошибка
+115. Evaluation – оценка
+116. Exhibit – показывать, выставлять
+117. Existence – существование
+118. Experiment – эксперимент
+119. FFT (Fast fourier transform) – БПФ (Быстрое преобразование Фурье) 
+120. Failure – отказ
+121. Fault – дефект, неисправность
+122. Feature – признак
+123. Feed-forward  - прямая связь
+124. Field – пространство
+125. Figure – рисунок
+126. Follow – следить
+127. Formalization – формализация
+128. Framework – рабочая область
+129. Frequency – частота
+130. Fuzzy – нечёткий
+131. Gain – усиление
+132. Gain – усиливать
+133. Gearbox – зубчатая передача, коробка передач
+134. Generalization – обобщение
+135. Generate – генерировать
+136. Gradient – градиент, уклон
+137. Grid – cетка
+138. Harmonic - гармоника
+139. Health – здоровье
+140. Helix – спираль
+141. Hierarchi – иерархия
+142. Identification – идентификация
+143. Image – образ
+144. Immune genetic - иммунно-генетический
+145. Implementation – реализация
+146. Include – включать, подключать
+147. Indicate – показывать, указывать
+148. Industry – промышленность
+149. Input – вход
+150. Inspire – вдохновлять
+151. Intelligent – интеллектуальная
+152. Introduce – вносить, вводить
+153. Introduction – введение
+154. Invariance – инвариантность
+155. Investigate – исследовать
+156. Iteration – итерация, повтор
+157. Kernel – ядро
+158. Kinematic – кинематический
+159. Kurtosis – эксцесс 
+160. Layer – слой
+161. Learning – обучение
+162. Load – нагрузка
+163. Location – местоположение
+164. Machinery – машинное оборудование
+165. Maintain – поддерживать
+166. Maintenance – поддержание
+167. Malfunction – нарушение работы
+168. Management – управление
+169. Map – карта
+170. Matrix – матрица
+171. Mean – среднее значение
+172. Measure – мера
+173. Mechanical – механический
+174. Memory – объём памяти
+175. Mesh - зацепление
+176. Meshing – сцепление
+177. Method – метод
+178. Methodology – методология
+179. Minimize – минимизировать
+180. Modality – Модальность
+181. Modern – современный
+182. Modulation – модуляция
+183. Monitoring – мониторинг, контроль
+184. Multi-resolution analysis (MRA) — кратномасштабный анализ
+185. Multiple – множественный
+186. Network – сеть
+187. Neuron – нейрон
+188. Noise – шум
+189. Normalization – нормализация
+190. Observation – наблюдение
+191. Observe - наблюдать
+192. Obtaine – получать
+193. Offers – предложения
+194. Oil – масло
+195. Operation – операция
+196. Optimize – оптимизировать
+197. Output – выход
+198. Overlapping – перекрытие
+199. Paper – статья
+200. Pattern – шаблон
+201. Peak – пик
+202. Peer – вглядываться
+203. Performance – эффективность
+204. Periodic – периодический
+205. Physical – физический
+206. Physiology – физиология
+207. Place – место
+208. Planetary – планетарный
+209. Point – точна
+210. Pooling – объединение
+211. Power – мощность
+212. Powerful – мощный
+213. Predict – прогнозировать
+214. Preprocess – предварительно обрабатывать
+215. Present – представлять
+216. Preventive – профилактический
+217. Processing – обработка
+218. Production – производство
+219. Projects – проект
+220. Propagation – распространение 
+221. Proper – правильный
+222. Propose – предлагать
+223. Propose – предложения
+224. Random – случайный
+225. Ratio – коээфициент
+226. ReLU (Rectified linear unit) - усеченное линейное преобразование 
+227. Receive – получать
+228. Recognition – распознавание
+229. Rectangular – прямоугольный
+230. Reflect – отражать
+231. Reliable – надеждный
+232. Report – отчёт
+233. Representation – представление
+234. Requirement - требование235. Research – исследование
+236. Respond – реагировать
+237. Ring – кольца
+238. Robustness – прочность
+239. Role – роль
+240. Root - корень
+241. Rotary - Вращательный
+242. SVM (support vector machines) – Метод опорных векторов
+243. Sample – выборка
+244. Scale – масштаб
+245. Schematic – схема
+246. Section – раздел
+247. Selection – выбор
+248. Sensitive – чувствительный
+249. Sensor – датчик
+250. Separate – отдельный
+251. Shaft – вал
+252. Shape – форма
+253. Sidebands  - боковые полосы
+254. Signal – сигнал
+255. Signature – подпись
+256. Simulation -  моделирование, симуляция
+257. Size – размер
+258. Sketch – эскиз
+259. Skewness – симметрия 
+260. Softmax function — функция мягкого максимума, софтмакс 
+261. Sort – сортировать
+262. Spectrum – спектр 
+263. Square - квадратный 
+264. Stage – стадия
+265. Statistical – статистический
+266. Stochastic – стохастический
+267. Subsampling – субдискретизация
+268. Summarize – резюмировать
+269. System – система
+270. Table – таблица
+271. Task – задача
+272. Technology – технология
+273. Telemetry – телеметрия
+274. Temporal – временной 
+275. Test – испытание, проверка
+276. Time – время
+277. Time-frequency – частотно-временной
+278. Tool – инструмент
+279. Tooth – зуб
+280. Topographic – топографический
+281. Trademark – производитель
+282. Traditional – Традиционный
+283. Traffic – движение
+284. Training – обучение
+285. Transformation – преобразование, превращение
+286. Transmission – коробка передач
+287. Trend – тенденция
+288. Turbine – турбина
+289. Typical – типичный, стандартный, обычный
+290. Ultrasonic – ультразвуковой
+291. Unsupervised – без учителя
+292. Utilize – использовать
+293. Validate – утверждать
+294. Value – значение
+295. Variation – изменение
+296. Verify – проверить
+297. Vibration – вибрация
+298. Waveforms – осциллограмма
+299. Wavelet – вейвлет
+300. Weight – вес
